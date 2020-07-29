@@ -20,3 +20,7 @@ Which is basically the logic behind the game. The rules are as follows.
 * The first player to reach 100 points on GLOBAL score wins the game or we can set final score manually for winning the game.
 
 * A player looses his ENTIRE score when he rolls 6 on both the dice at same time. After that, it's the next player's turn.
+
+### Play the Game
+
+* [Roll-Dice](https://iamajaykharat.github.io/Roll-Dice-Game/)
