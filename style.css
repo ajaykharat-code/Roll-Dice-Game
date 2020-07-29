@@ -62,6 +62,22 @@ body {
     overflow: hidden;
 }
 
+.wrapper-name {
+    width: 1000px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 22px;
+    font-weight: 600;
+    word-spacing: 3px;
+    color: wheat;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    text-align: center;
+    margin-top: 340px;
+}
+
 .player-0-panel,
 .player-1-panel {
     width: 50%;
