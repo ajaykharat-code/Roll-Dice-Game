@@ -25,6 +25,6 @@ Which is basically the logic behind the game. The rules are as follows.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a8885ed6-7e48-4434-8ff6-78e42113faee/deploy-status)](https://app.netlify.com/sites/rolldice2/deploys)
 
-* [Roll-Dice](https://iamajaykharat.github.io/Roll-Dice-Game/)
+* [Roll-Dice](https://ajaykharat-code.github.io/Roll-Dice-Game/)
 >or
 * [rolldice2.netlify.app](https://rolldice2.netlify.app/)
